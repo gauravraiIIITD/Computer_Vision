@@ -1,2 +1,2 @@
 # Computer_Vision
-Face detection using open CV
+Face detection AND recognition using open CV.
